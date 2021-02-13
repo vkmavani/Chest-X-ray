@@ -1,4 +1,0 @@
-The data for this task is not publicly avaible but one can get by entering in the below
-chellenge:
-
-https://covid-segmentation.grand-challenge.org/ 
